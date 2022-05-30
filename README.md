@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Atheer Alharabi, @Atheer1423
-- 👀 I’m interested in App,Web development
-- 🌱 I’m currently learning  Mobile App development (Android,IOS)
+- 👀 I’m iOS Developer
 - 📫 Atheersalalha@hotmail.com
 
 <!---
